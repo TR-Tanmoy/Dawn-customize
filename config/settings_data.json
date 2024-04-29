@@ -118,6 +118,11 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
+    "checkout_header_image": "shopify:\/\/shop_images\/gift-box-with-flower.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/buy_for_mart_1.png",
+    "checkout_logo_position": "center",
+    "checkout_body_background_color": "#858585",
+    "checkout_sidebar_background_color": "#785c5c",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
