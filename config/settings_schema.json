@@ -8,12 +8,8 @@
     "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
-    "name": "Color Swatches by MrDigitals",
+    "name": "Color Swatches by Tanmoy",
     "settings": [
-      {
-        "type": "paragraph",
-        "content": "Support MrDigitals by [Subscribing our Channel](https:\/\/youtube.com\/@amazinglearning?sub_confirmation=1)"
-      },
       {
         "type": "text",
         "id": "optionName",
