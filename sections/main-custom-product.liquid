@@ -462,7 +462,11 @@
                  <div>
                 <label for="custom_gift"> Warf as a gift?</label>
                   <input required type="checkbox" value="Yes" id="custom_gift" form="{{ product_form_id }}" name="properties[Custom gift]" />
-                </div>              
+                </div>
+
+                <label for="custom_photo"> Upload Your Design :</label>
+                  <input required type="file" id="custom_photo" form="{{ product_form_id }}" name="properties[Custom photo]" />
+                </div>
                             
               {%- when 'buy_buttons' -%}
                 {%- render 'buy-buttons',
