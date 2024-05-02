@@ -455,7 +455,10 @@
               {%- when 'variant_picker' -%}
                 {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
 
-                Your custom Prodct            
+                <div>
+                  <label for="custom_text"> Your Custom Test </label>
+                  <input required type="test" id="custom_text" form="{{ product_form_id }}" name="properties[Your Custom Test]"/>
+                </div>            
                             
               {%- when 'buy_buttons' -%}
                 {%- render 'buy-buttons',
