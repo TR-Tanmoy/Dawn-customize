@@ -4,5 +4,12 @@
     "market": "europe"
   },
   "sections": {
+    "footer": {
+      "settings": {
+        "newsletter_enable": true
+      },
+      "blocks": {
+      }
+    }
   }
 }
