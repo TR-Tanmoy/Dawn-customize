@@ -70,21 +70,6 @@
             "content": "",
             "page": ""
           }
-        },
-        "collapsible_tab_dMDkUi": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instruction",
-            "icon": "washing",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -97,13 +82,11 @@
         "description",
         "collapsible_tab_WTALBx",
         "collapsible_tab_L7ktHa",
-        "collapsible_tab_hrUtN6",
-        "collapsible_tab_dMDkUi",
-        "share"
+        "collapsible_tab_hrUtN6"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
         "media_size": "large",
         "constrain_to_viewport": true,
         "media_fit": "contain",
