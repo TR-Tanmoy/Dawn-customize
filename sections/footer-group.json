@@ -5,11 +5,25 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "link_list_gCea4M": {
-          "type": "link_list",
+        "text_DVPmnL": {
+          "type": "text",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "About Us",
+            "subtext": "<p>Collaboratively communicate granular quality vectors through parallel intellectual capital. Dynamically conceptualize equity invested e-commerce through user-centric human capital.<\/p>"
+          }
+        },
+        "text_z76GMg": {
+          "type": "text",
+          "settings": {
+            "heading": "Corporate Info",
+            "subtext": "<p>Careers<\/p><p>B2B<\/p><p>Privacy Policy<\/p><p>Terms & Conditions<\/p><p>Cookies<\/p><p><\/p>"
+          }
+        },
+        "text_8PgTPM": {
+          "type": "text",
+          "settings": {
+            "heading": "Customer Service",
+            "subtext": "<p>Careers<\/p><p>B2B<\/p><p>Privacy Policy<\/p><p>Terms & Conditions<\/p><p>Cookies<\/p>"
           }
         },
         "brand_information_anwDHc": {
@@ -20,7 +34,9 @@
         }
       },
       "block_order": [
-        "link_list_gCea4M",
+        "text_DVPmnL",
+        "text_z76GMg",
+        "text_8PgTPM",
         "brand_information_anwDHc"
       ],
       "settings": {
